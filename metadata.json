@@ -1,0 +1,6 @@
+{
+  "name": "皮克斯總動員：經典翻牌記憶大考驗",
+  "description": "經典皮克斯主題翻牌記憶遊戲，內建純 SVG 幾何角色卡牌、3D 翻轉動效、Web Audio 合成音效與過關慶祝拉炮。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
